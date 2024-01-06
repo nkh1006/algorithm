@@ -9,3 +9,4 @@ function solution(m, n, current) {
 }
 
 solution(3, 20, 1);
+solution(5, 10, 1);
